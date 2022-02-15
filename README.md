@@ -1,6 +1,15 @@
 # BotMinecraft24-7
 
-Para los que quieran saber como se usa el bot vayan a mi video actualizado para poder entender mejor
+Para los que quieran saber como se usa el bot vayan a mi video actualizado para poder entender mejor pero si no lo quieren ver se los explicare aca
+
+1. Crearse una cuenta en Replit
+2. Pulsan create luego import from guithub
+3. Copian el link de este guithub y lo pegan abajo donde sale Github Url
+4. Una vez lo pegan apretan el boto azul que dice + Import from GitHub
+5. Una vez lo apreten su proyecto en replit estara siendo creado una vez se cree van a config.json
+6. Y modifican la ip si tienen subdominio no hace falta que modifiquen el puerto solamente la ip tambien modifican el nombre del bot
+7. Por ultimo le dan a Run y su bot ya estaria en funcionamiento
+
 
 Video: Proximamente
 

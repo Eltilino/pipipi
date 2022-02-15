@@ -11,17 +11,19 @@ Para los que quieran saber como se usa el bot vayan a mi video actualizado para 
 7. Por ultimo le dan a Run y su bot ya estaria en funcionamiento
 
 
-Video Tutorial:
+## Video Tutorial:
 
 [<img src="https://media.discordapp.net/attachments/831393456811147295/943260686107177020/maxresdefault.jpg?width=760&height=427">](https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g)
 
-Links necesarios:
+## Links necesarios:
 
 GitHub: https://github.com/MoriDan1229/BotMinecraft24-7
 
 Replit: https://replit.com/~
 
-Redes Sociales: 
+## Redes Sociales: 
+
+[<img src="https://yt3.ggpht.com/oLvMeSLTUu_ngZXhLq2WLOyoBShAjnNEntachqGk4V5RwJx_DwRiEDC9Alcfn7dVQP4FiRN0=s600-c-k-c0x00ffffff-no-rj-rp-mo">](https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g)
 
 CanalYT Principal: https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g
 

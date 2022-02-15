@@ -21,6 +21,8 @@ GitHub: https://github.com/MoriDan1229/BotMinecraft24-7
 
 Replit: https://replit.com/~
 
+Bot(Por si lo quieren agregar): https://discord-bot-website.moridan1229.repl.co/
+
 ## Redes Sociales: 
 
 Canal Principal Mongolonia

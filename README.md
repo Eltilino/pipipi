@@ -35,7 +35,7 @@ Twitch
 
 [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/98055720-9275-48b7-9125-5562f099859e-profile_image-70x70.png">](https://www.twitch.tv/mori__dan)
 
-<img src="https://discord.com/api/guilds/831391611874836490/widget.json" alt="Discord Banner 3"/>
+<img src="https://discordapp.com/api/guilds/831391611874836490/widget.png?style=banner3" alt="Discord Banner 3"/>
 
 Discord:https://discord.gg/kSR5XjaMR3
 

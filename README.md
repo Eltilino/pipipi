@@ -24,14 +24,12 @@ Replit: https://replit.com/~
 ## Redes Sociales: 
 
 Mongolonia
-[<img src="https://yt3.ggpht.com/oLvMeSLTUu_ngZXhLq2WLOyoBShAjnNEntachqGk4V5RwJx_DwRiEDC9Alcfn7dVQP4FiRN0=s600-c-k-c0x00ffffff-no-rj-rp-mo">](https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g)
+
+[<img src="https://yt3.ggpht.com/oLvMeSLTUu_ngZXhLq2WLOyoBShAjnNEntachqGk4V5RwJx_DwRiEDC9Alcfn7dVQP4FiRN0=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g)
 
 Mori Dan
+
 [<img src="https://yt3.ggpht.com/CnSxA74umYGBbTUfm5HY9i3bhdiDXdmgVlbPzmm8MZ-HwyWUreKeraTicfwSG-omdy8IYruo2sM=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCfBQtr8zbCe3r3U1Z4CCPeg)
-
-CanalYT Principal: https://www.youtube.com/channel/UCydc-dC8yB6MS9hi5w4pD2g
-
-CanalYT Secundario: https://www.youtube.com/channel/UCfBQtr8zbCe3r3U1Z4CCPeg
 
 Twitch: https://www.twitch.tv/mori__dan
 

@@ -11,7 +11,11 @@ Para los que quieran saber como se usa el bot vayan a mi video actualizado para 
 7. Por ultimo le dan a Run y su bot ya estaria en funcionamiento
 
 
-Video: Proximamente
+Video Tutorial: Proximamente
+
+Links necesarios:
+
+GitHub: https://github.com/MoriDan1229/BotMinecraft24-7
 
 Replit: https://replit.com/~
 
